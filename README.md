@@ -144,34 +144,3 @@ We have used Persistent database to implement CRUD Operations.
 
 The project is a basic web application built using Java and the Spring framework. It allows users to sign up, sign in, and manage their profile information. Users can also create and view posts. The application uses authentication tokens to secure user data and ensure that only authenticated users can access certain features. The API endpoints include user signup, signin, and update details, post creation and retrieval, and authentication token creation. 
 
-
-
-## Author
-
-👤 **Ajinkya Padule**
-
-* GitHub: [AjinkyaPersonal](https://github.com/AjinkyaPersonal)
-
-* LinkedIn: [Ajinkya Padule](https://www.linkedin.com/in/ajinkya-padule-04b8541a6/)
-    
----
-
-## 🤝 Contributing
-
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page]("url").
-    
----
-    
-## Show your support
-
-Give a ⭐️ if this project helped you!
-    
----
-    
-## 📝 License
-
-Copyright © 2023 [Ajinkya Padule](https://github.com/AjinkyaPersonal).<br />
-
-This project is [MIT]("url") licensed.
-    
----
